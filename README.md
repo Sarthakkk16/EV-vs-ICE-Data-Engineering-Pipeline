@@ -1,5 +1,7 @@
 # EV vs ICE Vehicle Data Engineering Pipeline
 
+![](![Uploading Gemini_Generated_Image_optnttoptnttoptn.png…]()
+)
 ## Overview
 This project demonstrates a real-world Data Engineering pipeline built using Databricks, PySpark, and Delta Lake on an EV vs ICE Vehicle dataset (2015–2026).
 
